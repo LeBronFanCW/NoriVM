@@ -3,6 +3,17 @@
     <channel>
         <title>NoriVM</title>
         <item>
+            <title>0.7.0</title>
+            <pubDate>Mon, 20 Jul 2026 18:41:56 -0400</pubDate>
+            <link>https://github.com/LeBronFanCW/NoriVM</link>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/LeBronFanCW/NoriVM/main/NoriVM-0.7-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/LeBronFanCW/NoriVM/releases/download/v0.7.0/NoriVM-0.7-macOS.zip" length="1483751" type="application/octet-stream" sparkle:edSignature="deKQtWbSliVErPbu3Y65e7CsOPq3B6sE42jfRNmNKkr93rRQqPMIJm/XJjojZagm8LMQuf13vM9Ik3Eo76wTBQ=="/>
+        </item>
+        <item>
             <title>0.6.0</title>
             <pubDate>Mon, 20 Jul 2026 18:33:17 -0400</pubDate>
             <link>https://github.com/LeBronFanCW/NoriVM</link>
@@ -23,17 +34,6 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/LeBronFanCW/NoriVM/main/NoriVM-0.5-macOS.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/LeBronFanCW/NoriVM/releases/download/v0.5.0/NoriVM-0.5-macOS.zip" length="1464901" type="application/octet-stream" sparkle:edSignature="RIAHC/uH0MO8nULXd43ru5KNF4aHfOkCyhx5rH9LmEukIqdEVH9K8DJ+A6DoWatXoM1WPGC1CS7kFn4G+ZuADA=="/>
-        </item>
-        <item>
-            <title>0.4.0</title>
-            <pubDate>Mon, 20 Jul 2026 17:58:17 -0400</pubDate>
-            <link>https://github.com/LeBronFanCW/NoriVM</link>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/LeBronFanCW/NoriVM/main/NoriVM-macOS.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/LeBronFanCW/NoriVM/releases/download/v0.4.0/NoriVM-macOS.zip" length="1464118" type="application/octet-stream" sparkle:edSignature="XM3t60eE3OQj/m2Z8So9U6eDfCon6mIokh9PTlIEurq7Sms2hDQ9mC5NxTF0s1/X4Z2yytCN6rslTJbv443YBA=="/>
         </item>
     </channel>
 </rss>
