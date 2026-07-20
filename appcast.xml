@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>NoriVM</title>
+        <item>
+            <title>0.4.0</title>
+            <pubDate>Mon, 20 Jul 2026 17:58:17 -0400</pubDate>
+            <link>https://github.com/LeBronFanCW/NoriVM</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/LeBronFanCW/NoriVM/main/NoriVM-macOS.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/LeBronFanCW/NoriVM/releases/download/v0.4.0/NoriVM-macOS.zip" length="1464116" type="application/octet-stream" sparkle:edSignature="cY8swuzoc4Mlz/eNbseS2o6SgdH5NUVoDRVezTElgaa3JCPHk90i5APpcpNIzbGq1fHMuS5ZkDlzSTwKNdSvCw=="/>
+        </item>
+    </channel>
+</rss>
